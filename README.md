@@ -2,7 +2,7 @@
 
 Live Demo:- https://vigorous-mayer-alan-ksk-96e96f.netlify.app/
 
-A small Blog writeup about the project:- 
+A small Blog writeup about the project:- https://kshitijkakade.atlassian.net/l/c/ihxPt6ru
 
 
 Directions to use:-
